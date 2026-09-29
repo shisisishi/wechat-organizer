@@ -1,0 +1,7 @@
+{
+  "slug": "wechat-organizer",
+  "title": "群聊整理原型",
+  "safeToPublish": true,
+  "excluded": [],
+  "notes": "仅含源码与虚构示例 OCR/转写/摘要；已排除 wechat.db、__pycache__ 与真实聊天记录。无连接微信、无自动回复；OCR 无独立启动工作流。本机已用 demo.json 验证解析、SQLite 去重、转写与摘要 CLI（摘要依赖 jieba）。"
+}
